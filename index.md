@@ -27,7 +27,7 @@ general.
 
 | Slide ID | Center / Assay | Preview |
 | :-: | :-: | :-: |
-| WD-75684-01 | HMS H&E | ![]({{site.baseurl }}/images/thumbnail-WD-75684-01.jpg) |
+| WD-75684-01 | HMS H&E | <figure class="figure-story figure-story-grid"><a href="{{ site.baseurl }}{% link stories/WD-75684-01.md %}"><img src="{{ site.baseurl }}/images/thumbnail-WD-75684-01.jpg"><figcaption>WD-75684-01</figcaption></a></figure> |
 | WD-75684-02 | HMS CyCIF | ![]({{site.baseurl }}/images/thumbnail-WD-75684-02.jpg) |
 | WD-75684-05 | Broad CODEX | ![]({{site.baseurl }}/images/thumbnail-WD-75684-05.jpg) |
 | WD-75684-08 | HMS CyCIF | ![]({{site.baseurl }}/images/thumbnail-WD-75684-08.jpg) |
