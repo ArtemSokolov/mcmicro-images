@@ -22,14 +22,14 @@ description of [digital
 docents](https://www.biorxiv.org/content/10.1101/2020.03.27.001834v2) in
 general.
 
-**Primary data:** [https://www.synapse.org/MCMICRO_images](https://www.synapse.org/MCMICRO_images)
+**Primary data:** [https://www.synapse.org/MCMICRO_images](https://www.synapse.org/MCMICRO_images)<br>
 **Data overview**
 
 | Slide ID | Center / Assay | Preview |
 | :-: | :-: | :-: |
-| WD-75684-01 | HMS H&E | ![]({{site.baseurl }}/images/WD-75684-01.jpg) |
-| WD-75684-02 | HMS CyCIF | ![]({{site.baseurl }}/images/WD-75684-02.jpg) |
-| WD-75684-05 | Broad CODEX | ![]({{site.baseurl }}/images/WD-75684-05.jpg) |
-| WD-75684-08 | HMS CyCIF | ![]({{site.baseurl }}/images/WD-75684-08.jpg) |
-| WD-75684-12 | OHSU mIHC | ![]({{site.baseurl }}/images/WD-75684-12.jpg) |
+| WD-75684-01 | HMS H&E | ![]({{site.baseurl }}/images/thumbnail-WD-75684-01.jpg) |
+| WD-75684-02 | HMS CyCIF | ![]({{site.baseurl }}/images/thumbnail-WD-75684-02.jpg) |
+| WD-75684-05 | Broad CODEX | ![]({{site.baseurl }}/images/thumbnail-WD-75684-05.jpg) |
+| WD-75684-08 | HMS CyCIF | ![]({{site.baseurl }}/images/thumbnail-WD-75684-08.jpg) |
+| WD-75684-12 | OHSU mIHC | ![]({{site.baseurl }}/images/thumbnail-WD-75684-12.jpg) |
 
